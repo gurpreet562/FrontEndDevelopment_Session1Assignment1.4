@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Insertion and deletion of text </title>
+<style>
+       header{
+            text-align: center;
+            border-bottom : 1px solid silver;
+            border-top      : 1px solid silver;
+            background-color: silver
+          }
+ 
+   </style>
+</head>
+
+ <body>
+
+     <header>
+      <h2>Insertion and deletion of text in the web page</h2>
+     </header>
+
+<p>My hobby  is <del>Singing</del> <ins>reading</ins>!!!</p>
+
+
+</body>
+</html>
